@@ -83,5 +83,11 @@ public class StepDefinitionEmp {
 	public void user_close_the_browser() throws Throwable {
 	    driver.close();
 	}
+	public void addition()
+	{
+		int a=20,b=10;
+		int c=a+b;
+		System.out.println(c);
+	}
 
 }
