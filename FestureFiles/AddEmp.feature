@@ -12,9 +12,9 @@ Then user validates url
 Then user close the browser
 Examples:
 |Fname|Mname|Lname|
-|Renu|c|c|
-|abcde|test|ing|
-|ramu|r|d|
+|Renu|c|g|
+|rohi|test|ing|
+|ramu|r|reddy|
 |ravindra|c|reddy|
 
 
